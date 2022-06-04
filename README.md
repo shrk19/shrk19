@@ -1,7 +1,7 @@
 <h1>Hello folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
     <p align="center">
         <code>
-            I'm <strong>Shreya Kumari</strong>, an <strong>Undergrad Student🎓</strong> at <a href="https://www.vitap.ac.in"><strong>VIT-AP</strong></a>  pursuing CSE with Specialization in AI. I am a Machine Learning and AI enthusiast. As an indivisual I always look forward to opportunities for exploring various domains to find my calling.
+            I'm <strong>Shreya Kumari</strong>, an <strong>Undergrad Student🎓</strong> at <a href="https://www.vitap.ac.in" target="_blank" rel="noopener noreferrer"><strong>VIT-AP</strong></a>  pursuing CSE with Specialization in AI. I am a Machine Learning and AI enthusiast. As an indivisual I always look forward to opportunities for exploring various domains to find my calling.
         </code>
     <div >
     </div>
@@ -33,7 +33,7 @@
         <img src="icons/icons8-figma-48.png" alt="figma">
     </div>        
     <h2>📩 Contact me </h2>
-    <a href="www.linkedin.com/in/shreya-kumari-19122001"> <img src="icons/icons8-linkedin-48.png" alt="linkedin"> </a>
+    <a href="https://www.linkedin.com/in/shreya-kumari-19122001/"> <img src="icons/icons8-linkedin-48.png" alt="linkedin"> </a>
     <a href="mailto:shreyakri19@gmail.com"> <img src="icons/icons8-gmail-48.png" alt="gmail"> </a>
     </p>
         
