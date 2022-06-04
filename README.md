@@ -1,13 +1,13 @@
-<h1>Hi there 👋</h1>
+<h1>Hello folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
     <p align="center">
         <code>
-            Hi There. I'm Shreya Kumari, a <strong>2nd</strong> Year <strong>CSE</strong> Undergrad Student at <strong>Vellore Institue of Technology, Andhra Pradesh.</strong> I am a Machine Learning and AI enthusiast. I always look forward to oppurtunities for exploring different fields, creating and innovating.
+            I'm <strong>Shreya Kumari</strong>, a <strong>2nd</strong> Year <strong>CSE</strong> Undergrad Student at <strong>Vellore Institue of Technology, Andhra Pradesh.</strong> I am a Machine Learning and AI enthusiast. I always look forward to oppurtunities for exploring different fields, creating and innovating.
         </code>
-    <div align="center">
-        <img width="80%" alt="GIF" src="gifs/jimcarrey.gif">
+    <div >
     </div>
     <h2>👨‍💻 Learning</h2>  
     <div>
+        <img height="155px" align="right" alt="GIF" src="gifs/jimcarrey.gif">
     <ul> 
         <li><code>Data Structures and Algorithms</code></li> 
         <li><code>Competetive Programming</code></li> 
@@ -38,6 +38,7 @@
     <a href="mailto:shreyakri19@gmail.com"> <img src="icons/icons8-gmail-48.png" alt="gmail"> </a>
     </p>
     
+        
         
 <!--
 **shrk19/shrk19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
