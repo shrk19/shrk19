@@ -1,7 +1,7 @@
 <h1>Hello folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
     <p align="center">
         <code>
-            I'm <strong>Shreya Kumari</strong>, an <strong>Undergrad Student🎓 [@VIT-AP](https://www.vitap.ac.in)</strong> pursuing CSE with Specialization in AI. I am a Machine Learning and AI enthusiast. As an indivisual I always look forward to opportunities for exploring various domains to find my calling.
+            I'm <strong>Shreya Kumari</strong>, an <strong>Undergrad Student🎓</strong> at <a href="https://www.vitap.ac.in"><strong>VIT-AP</strong></a>  pursuing CSE with Specialization in AI. I am a Machine Learning and AI enthusiast. As an indivisual I always look forward to opportunities for exploring various domains to find my calling.
         </code>
     <div >
     </div>
