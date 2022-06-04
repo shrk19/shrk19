@@ -1,19 +1,17 @@
-[![Social banner for shrk19](gifs/giphy.gif)]
 <h1>Hello folks! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
     <p align="center">
         <code>
-            I'm <strong>Shreya Kumari</strong>, a <strong>2nd</strong> Year <strong>CSE</strong> Undergrad Student at <strong>Vellore Institue of Technology, Andhra Pradesh.</strong> I am a Machine Learning and AI enthusiast. I always look forward to oppurtunities for exploring different fields, creating and innovating.
+            I'm <strong>Shreya Kumari</strong>, an <strong>Undergrad Student🎓 [@VIT-AP](https://www.vitap.ac.in)</strong> pursuing CSE with Specialization in AI. I am a Machine Learning and AI enthusiast. As an indivisual I always look forward to opportunities for exploring various domains to find my calling.
         </code>
     <div >
     </div>
     <h2>👨‍💻 Learning</h2>  
     <div>
-        <img height="155px" align="right" alt="GIF" src="gifs/jimcarrey.gif">
     <ul> 
-        <li><code>Data Structures and Algorithms</code></li> 
-        <li><code>Competetive Programming</code></li> 
-        <li><code>Web Development</code></li> 
-        <li><code>Artificial Intelligence</code></li>
+        <li><code>Data Structures and Algorithms 📊</code></li> 
+        <li><code>Competetive Programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </code></li> 
+        <li><code>Web Development 👩🏿‍💻</code></li> 
+        <li><code>Artificial Intelligence 🔥</code></li>
     </ul>
     </div> 
     <h2>🛠 Languages and Tools</h2>
