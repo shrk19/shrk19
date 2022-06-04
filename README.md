@@ -3,7 +3,6 @@
         <code>
             Hi There. I'm Shreya Kumari, a <strong>2nd</strong> Year <strong>CSE</strong> Undergrad Student at <strong>Vellore Institue of Technology, Andhra Pradesh.</strong> I am a Machine Learning and AI enthusiast. I always look forward to oppurtunities for exploring different fields, creating and innovating.
         </code>
-        
     <div align="center">
         <img width="80%" alt="GIF" src="gifs/jimcarrey.gif">
     </div>
